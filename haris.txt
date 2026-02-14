@@ -1,0 +1,46 @@
+# 🌟 Haris — BS Software Engineering Student  
+
+## 👨‍💻 About Me
+- 🎓 Pursuing **BS Software Engineering** with focus on **coding, modular design, graphics programming, and mathematical modeling**.  
+- 💡 Passionate about **logic-heavy programming challenges**, **system simulations**, and **3D mathematical visualization**.  
+- 🚀 Actively building a strong **GitHub portfolio** to attract collaborators and recruiters.  
+
+---
+
+## 🛠️ Skills
+- **Languages:** C, C++, C#, Python  
+- **Core Strengths:** Iterative programming, debugging complex logic, modular upgrades  
+- **Creative Touches:** ASCII art, user-friendly interfaces, visual graphing of mathematical surfaces  
+- **Tools:** GitHub Copilot, Codex, VS Code extensions  
+
+---
+
+## 📂 Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🚍 Smart Transport Fare | Simulation of transport fare system with modular logic | C++ |
+| 🏥 Hospital Management | Mini-project for patient records & billing | C# |
+| 📊 Payroll System | Data analysis & salary management | Python |
+| 🔢 Math Surface Visualizer | 3D graphing of cylinders, parabolas, hyperbolas, sine waves | Python (Matplotlib) |
+
+---
+
+## 📈 GitHub Stats & Badges
+![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=**YOUR_GITHUB_USERNAME**&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**YOUR_GITHUB_USERNAME**&layout=compact&theme=radical)  
+
+Badges:  
+![C++](https://img.shields.io/badge/C++-Expert-blue)  
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)  
+![VS Code](https://img.shields.io/badge/VS%20Code-Power%20User-green)  
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: *your.email@example.com*  
+- 💼 LinkedIn: [Your LinkedIn Profile](#)  
+- 🖥️ Portfolio: [Your Portfolio Website](#)  
+
+---
+
+✨ This README will make your repository **stand out** with clarity, professionalism, and personality.  
